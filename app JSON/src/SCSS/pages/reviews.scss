@@ -1,0 +1,50 @@
+.display{
+    width: 95%;
+    margin: auto;
+    padding: 20px 0px;
+}
+
+.reviews {
+    width: 95%;
+    margin: auto;
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+
+
+    .review { 
+        min-height: 350px;
+        max-width: 300px;
+        gap: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        background: white;
+        padding: 20px;
+        box-shadow: 2px 2px 2px $shadow;
+        color: $text;
+
+        .name{
+            display: flex;
+            flex-direction: row;
+            svg{
+                color: $magenta;
+                flex-direction: row;
+                font-size: 20px;
+            }
+        } 
+
+        .rating {
+            display: flex;
+
+            p {
+                padding-right: 10px;
+            }
+
+            svg {
+                font-size: 25px;
+            }
+        }
+    }
+
+}

@@ -1,0 +1,367 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Ultra HD 4k Smart TV",
+      "category": "electronics",
+      "price": 4000,
+      "description": "Experience stunning 4k visuals with our Ultra Smart TV, featuring state-of-the-art technology and seamless connectivity"
+    },
+    {
+      "id": "2",
+      "title": "Captivating Novel",
+      "category": "books",
+      "price": 2000,
+      "description": "A captivating novel that will keep you on the edge of your seat."
+    },
+    {
+      "id": "3",
+      "title": "Premium Fitness Gear",
+      "category": "fitness",
+      "price": 555,
+      "description": "Enhance your workout routine with our top-quality fitness gear."
+    },
+    {
+      "id": "4",
+      "title": "High-Quality Gardening Tool",
+      "category": "gardening",
+      "price": 999,
+      "description": "The perfect tool for maintaining a beautiful garden."
+    },
+    {
+      "id": "5",
+      "title": "Comfortable Sofa",
+      "category": "furniture",
+      "price": 4000,
+      "description": "Sink into luxury with our comfortable and stylish sofa."
+    },
+    {
+      "id": "6",
+      "title": "Impressive Electronics",
+      "category": "electronics",
+      "price": 3500,
+      "description": "Product 4 delivers on its promises. The features and performance are impressive."
+    },
+    {
+      "id": "7",
+      "title": "Literary Masterpiece",
+      "category": "books",
+      "price": 1800,
+      "description": "Another fantastic read to add to your collection."
+    },
+    {
+      "id": "8",
+      "title": "Premium Fitness Equipment",
+      "category": "fitness",
+      "price": 899,
+      "description": "Take your fitness journey to the next level with our premium equipment."
+    },
+    {
+      "id": "9",
+      "title": "Must-Have Gardening Accessory",
+      "category": "gardening",
+      "price": 80,
+      "description": "A must-have accessory for every gardening enthusiast."
+    },
+    {
+      "id": "10",
+      "title": "Elegant Dining Table",
+      "category": "furniture",
+      "price": 1200,
+      "description": "Gather around our elegant dining table for memorable meals."
+    },
+    {
+      "id": "11",
+      "title": "Advanced Electronics",
+      "category": "electronics",
+      "price": 4500,
+      "description": "Product 5 is another winner. The advanced features make it a great value for the price."
+    },
+    {
+      "id": "12",
+      "title": "Compelling Story",
+      "category": "books",
+      "price": 2200,
+      "description": "A literary masterpiece that will leave you in awe."
+    },
+    {
+      "id": "13",
+      "title": "Stylish Fitness Apparel",
+      "category": "fitness",
+      "price": 499,
+      "description": "Stay stylish and comfortable during your workouts with our fitness apparel."
+    },
+    {
+      "id": "14",
+      "title": "Colorful Gardening Plant",
+      "category": "gardening",
+      "price": 15,
+      "description": "Add a touch of greenery to your garden with our vibrant plants."
+    },
+    {
+      "id": "15",
+      "title": "Spacious Wardrobe",
+      "category": "furniture",
+      "price": 1800,
+      "description": "Organize your clothes in style with our spacious wardrobe."
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "name": "Alice Johnson",
+      "rating": 3,
+      "description": "Good, but expected better image quality",
+      "comment": "The TV is good overall, but I was expecting sharper image quality for the price.",
+      "productId": 1
+    },
+    {
+      "id": "220",
+      "name": "Alice Blablabla",
+      "rating": 5,
+      "description": "Good, but expected better image quality",
+      "comment": "The TV is good overall, but I was expecting sharper image quality for the price.",
+      "productId": 2
+    },
+    {
+      "id": "221",
+      "name": "Bla bla Johnson",
+      "rating": 3,
+      "description": "Good, but expected better image quality",
+      "comment": "The TV is good overall, but I was expecting sharper image quality for the price.",
+      "productId": 2
+    },
+    {
+      "id": "2",
+      "name": "Bob Smith",
+      "rating": 4,
+      "description": "Great Book!",
+      "comment": "I thoroughly enjoyed reading this book. It's a must-read for book lovers.",
+      "productId": 6
+    },
+    {
+      "id": "3",
+      "name": "Charlie Brown",
+      "rating": 5,
+      "description": "Fantastic fitness gear!",
+      "comment": "The fitness gear exceeded my expectations. It's durable and perfect for my workouts.",
+      "productId": 7
+    },
+    {
+      "id": "4",
+      "name": "David White",
+      "rating": 3,
+      "description": "Decent gardening tool",
+      "comment": "The gardening tool gets the job done, but I expected it to be a bit more sturdy.",
+      "productId": 8
+    },
+    {
+      "id": "5",
+      "name": "Eva Green",
+      "rating": 4,
+      "description": "Comfortable sofa",
+      "comment": "The sofa is not only stylish but also incredibly comfortable. I love it!",
+      "productId": 9
+    },
+    {
+      "id": "6",
+      "name": "Alice Johnson",
+      "rating": 4,
+      "description": "Impressive electronics",
+      "comment": "Product 4 delivers on its promises. The features and performance are impressive.",
+      "productId": 10
+    },
+    {
+      "id": "7",
+      "name": "Bob Smith",
+      "rating": 5,
+      "description": "Book 2 is a masterpiece!",
+      "comment": "I couldn't put this book down. It's a literary masterpiece that captivated me from start to finish.",
+      "productId": 11
+    },
+    {
+      "id": "8",
+      "name": "Charlie Brown",
+      "rating": 4,
+      "description": "Top-quality fitness equipment",
+      "comment": "GOOD",
+      "productId": 12
+    },
+    {
+      "id": "9",
+      "name": "David White",
+      "rating": 5,
+      "description": "Must-have gardening accessory",
+      "comment": "This gardening accessory is a game-changer. It made my gardening tasks much more convenient.",
+      "productId": 13
+    },
+    {
+      "id": "10",
+      "name": "Eva Green",
+      "rating": 4,
+      "description": "Dining Table Review",
+      "comment": "The dining table is not only stylish but also sturdy. It's a great addition to our home.",
+      "productId": 14
+    },
+    {
+      "id": "11",
+      "name": "Alice Johnson",
+      "rating": 4,
+      "description": "Impressive electronics",
+      "comment": "Product 5 is another winner. The advanced features make it a great value for the price.",
+      "productId": 15
+    },
+    {
+      "id": "12",
+      "name": "Bob Smith",
+      "rating": 5,
+      "description": "Book 3 is a must-read!",
+      "comment": "I couldn't put Book 3 down. It's a compelling story that kept me engaged until the last page.",
+      "productId": 16
+    },
+    {
+      "id": "13",
+      "name": "Charlie Brown",
+      "rating": 5,
+      "description": "Excellent fitness apparel",
+      "comment": "The fitness apparel is not only stylish but also comfortable. It enhances my workout experience.",
+      "productId": 17
+    },
+    {
+      "id": "14",
+      "name": "David White",
+      "rating": 4,
+      "description": "Gardening Plant Review",
+      "comment": "The gardening plant added a burst of color to my garden. It's a great addition to any outdoor space.",
+      "productId": 18
+    },
+    {
+      "id": "15",
+      "name": "Eva Green",
+      "rating": 5,
+      "description": "Wardrobe Review",
+      "comment": "The wardrobe is spacious and well-designed. It helped me organize my clothes efficiently.",
+      "productId": 19
+    },
+    {
+      "id": "16",
+      "name": "Frank Miller",
+      "rating": 4,
+      "description": "Sleek Ultra HD 4k Smart TV",
+      "comment": "The Ultra HD 4k Smart TV is sleek and offers a fantastic viewing experience.",
+      "productId": 1
+    },
+    {
+      "id": "17",
+      "name": "Grace Turner",
+      "rating": 5,
+      "description": "Thrilling Novel Experience",
+      "comment": "The captivating novel provided a thrilling reading experience. Highly recommended!",
+      "productId": 2
+    },
+    {
+      "id": "18",
+      "name": "Henry Davis",
+      "rating": 3,
+      "description": "Solid Fitness Gear",
+      "comment": "The fitness gear is solid, but there's room for improvement in terms of design.",
+      "productId": 3
+    },
+    {
+      "id": "19",
+      "name": "Ivy Robinson",
+      "rating": 4,
+      "description": "Reliable Gardening Tool",
+      "comment": "The gardening tool is reliable and gets the job done efficiently.",
+      "productId": 4
+    },
+    {
+      "id": "20",
+      "name": "Jack Turner",
+      "rating": 5,
+      "description": "Luxurious Comfortable Sofa",
+      "comment": "The comfortable sofa is both luxurious and comfortable. It's a great addition to my living room.",
+      "productId": 5
+    },
+    {
+      "id": "21",
+      "name": "Frank Gallagher",
+      "rating": 5,
+      "description": "I stole that Ultra HD 4k Smart TV",
+      "comment": "The Ultra HD 4k Smart TV is sleek and offers a fantastic viewing experience.",
+      "productId": 1
+    },
+    {
+      "id": "22",
+      "name": "Fiona Gallagher",
+      "rating": 1,
+      "description": "I returned that Ultra HD 4k Smart TV",
+      "comment": "Dont let him do that again",
+      "productId": 1
+    },
+    {
+      "id": "23",
+      "name": "George Anderson",
+      "rating": 4,
+      "description": "Highly impressed",
+      "comment": "The Ultra HD 4k Smart TV exceeded my expectations. The picture quality is stunning.",
+      "productId": 1
+    },
+    {
+      "id": "24",
+      "name": "Helen Turner",
+      "rating": 3,
+      "description": "Average TV",
+      "comment": "The Ultra HD 4k Smart TV is decent, but I expected more advanced features for the price.",
+      "productId": 1
+    },
+    {
+      "id": "225",
+      "name": "John Doe",
+      "rating": 5,
+      "description": "Captivating storyline",
+      "comment": "Book 2 has a captivating storyline that kept me engaged. A must-read!",
+      "productId": 2
+    },
+    {
+      "id": "226",
+      "name": "Jane Doe",
+      "rating": 4,
+      "description": "Enjoyable read",
+      "comment": "I enjoyed reading Book 2. It's a great addition to my book collection.",
+      "productId": 2
+    },
+    {
+      "id": "27",
+      "name": "Olivia Fitness",
+      "rating": 5,
+      "description": "Top-notch fitness gear",
+      "comment": "This fitness gear is top-notch. It provides excellent support during workouts.",
+      "productId": 3
+    },
+    {
+      "id": "28",
+      "name": "Oscar Gym",
+      "rating": 4,
+      "description": "Great for home workouts",
+      "comment": "The fitness equipment is perfect for home workouts. It's sturdy and well-designed.",
+      "productId": 3
+    },
+    {
+      "id": "29",
+      "name": "Penelope Gardner",
+      "rating": 4,
+      "description": "Effective gardening tool",
+      "comment": "The gardening tool is effective and makes gardening tasks more enjoyable.",
+      "productId": 4
+    },
+    {
+      "id": "30",
+      "name": "Paul Green Thumb",
+      "rating": 5,
+      "description": "Essential for gardeners",
+      "comment": "This gardening tool is essential for every gardener. It simplifies the gardening process.",
+      "productId": 4
+    }
+  ]
+}

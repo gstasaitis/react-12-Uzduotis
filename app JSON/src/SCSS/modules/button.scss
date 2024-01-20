@@ -1,0 +1,28 @@
+button {
+    width: 100%;
+    padding: 10px;
+    justify-content: flex-end;
+    margin: auto;
+    background: $magenta;
+    color: $white;
+    border: none;
+    text-align: left;
+    font-size: 18px;
+
+    transition: .3s;
+
+    &:hover{
+        cursor: pointer;
+        background: $hover;
+    }
+}
+
+.goback {
+    width: 75px;
+    margin-top: 20px;
+}
+
+.buttoncontainer {
+    width: 95%;
+    margin: auto;
+}

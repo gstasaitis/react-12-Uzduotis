@@ -1,0 +1,57 @@
+.filter {
+    width: 95%;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    font-weight: 800;
+    letter-spacing: -1px;
+    font-size: 1.2em;
+
+    align-items: center;
+    margin: auto;
+    padding: 10px 0px;
+
+    label{
+        padding-right: 10px;
+    }
+}
+
+.products {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: auto;
+    width: 95%;
+    padding-top: 20px;
+
+    .product {
+        height: 450px;
+        width: 280px;
+        gap: 10px;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        background: white;
+        padding: 20px;
+        box-shadow: 2px 2px 2px $shadow;
+        color: $text;
+
+        h1{
+            font-weight: 400;
+            color: $magenta;
+        }
+
+        .bold {
+            font-size: 1.2em;
+            font-weight: bold;
+        }
+    }
+}
+
+select:hover{
+    option {
+    background: $magenta;
+}
+}
+
